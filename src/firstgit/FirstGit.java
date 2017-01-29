@@ -23,6 +23,6 @@ public class FirstGit {
             System.out.println("the counter is " + i);
         }
         int z = 0;
-    }
-    
+        System.out.println("z = " + z);
+    }    
 }
